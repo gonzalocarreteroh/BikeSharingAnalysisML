@@ -1,3 +1,4 @@
 ./tutorials
 ./Assignments
-./venv
+./venv/**
+.DS_Store
